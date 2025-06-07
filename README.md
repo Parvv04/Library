@@ -36,20 +36,20 @@ A simple JavaScript-powered Library app that lets you manage a collection of boo
 
 ## 📋 Usage
 
-Click on the "Add Book" button to open the form
-Fill in the title, author, pages, and read status
-Click "Submit" to add the book
-Use "Remove" to delete a book from the list
-Click "Mark as Read"/"Mark as Unread" to toggle status
+- Click on the "Add Book" button to open the form
+- Fill in the title, author, pages, and read status
+- Click "Submit" to add the book
+- Use "Remove" to delete a book from the list
+- Click "Mark as Read"/"Mark as Unread" to toggle status
 
 ---
 
 ## 🧠 Future Improvements
 
-Add localStorage to persist data between sessions
-Add search/filter functionality
-Use modal instead of basic form for better UX
-Responsive design for mobile devices
+- Add localStorage to persist data between sessions
+- Add search/filter functionality
+- Use modal instead of basic form for better UX
+- Responsive design for mobile devices
 
 ---
 
